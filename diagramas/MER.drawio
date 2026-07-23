@@ -4,16 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xau_mjH31Edit32Rzf2k-54" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xau_mjH31Edit32Rzf2k-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Tiene" vertex="1">
-          <mxGeometry height="80" width="80" x="320" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-49" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-23" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xau_mjH31Edit32Rzf2k-52" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-83" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-63">
@@ -22,7 +13,7 @@
         <mxCell id="Xau_mjH31Edit32Rzf2k-84" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="192.51999999999998" />
+              <mxPoint x="180" y="82.52" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,7 +23,7 @@
         <mxCell id="Xau_mjH31Edit32Rzf2k-88" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="257.48" />
+              <mxPoint x="180" y="147.48" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cliente" vertex="1">
-          <mxGeometry height="40" width="80" x="180" y="205" as="geometry" />
+          <mxGeometry height="40" width="80" x="180" y="95" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-56" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-55" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +42,7 @@
         <mxCell id="Xau_mjH31Edit32Rzf2k-79" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="195" />
+              <mxPoint x="540" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,7 +52,7 @@
         <mxCell id="Xau_mjH31Edit32Rzf2k-81" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="257.48" />
+              <mxPoint x="540" y="147.48" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,11 +60,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Producto" vertex="1">
-          <mxGeometry height="40" width="80" x="460" y="205" as="geometry" />
+          <mxGeometry height="40" width="80" x="460" y="95" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-38" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-32" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="400" as="targetPoint" />
+            <mxPoint x="360" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-111" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-105">
@@ -92,19 +83,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Orden de Servicio" vertex="1">
-          <mxGeometry height="40" width="80" x="320" y="320" as="geometry" />
+          <mxGeometry height="40" width="80" x="320" y="210" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-46" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Solicita" vertex="1">
-          <mxGeometry height="80" width="80" x="180" y="300" as="geometry" />
+          <mxGeometry height="80" width="80" x="180" y="190" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-47" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Atiende" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="300" as="geometry" />
+          <mxGeometry height="80" width="80" x="440" y="190" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-48" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-24" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -112,60 +103,60 @@
         <mxCell id="Xau_mjH31Edit32Rzf2k-98" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="290.03999999999996" />
+              <mxPoint x="640" y="180.04" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-101" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="386.52" />
+              <mxPoint x="640" y="276.52" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-102" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="352.52" />
+              <mxPoint x="640" y="242.52" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-104" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="324.03999999999996" />
+              <mxPoint x="640" y="214.04" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tecnico" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="320" as="geometry" />
+          <mxGeometry height="40" width="80" x="560" y="210" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-125" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="513.04" />
+              <mxPoint x="320" y="403.04" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-128" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="554" />
+              <mxPoint x="430" y="444" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-129" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-120">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="554" />
+              <mxPoint x="280" y="444" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-131" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="514" />
-              <mxPoint x="420" y="514" />
+              <mxPoint x="420" y="404" />
+              <mxPoint x="420" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,94 +164,91 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Repuesto" vertex="1">
-          <mxGeometry height="40" width="80" x="320" y="514" as="geometry" />
+          <mxGeometry height="40" width="80" x="320" y="404" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-33" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xau_mjH31Edit32Rzf2k-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Utiliza" vertex="1">
-          <mxGeometry height="80" width="80" x="320" y="405" as="geometry" />
+          <mxGeometry height="80" width="80" x="320" y="295" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-57" edge="1" parent="1" source="Xau_mjH31Edit32Rzf2k-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xau_mjH31Edit32Rzf2k-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xau_mjH31Edit32Rzf2k-55" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Genera" vertex="1">
-          <mxGeometry height="80" width="80" x="320" y="185" as="geometry" />
+        <mxCell id="Xau_mjH31Edit32Rzf2k-55" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Tiene" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="75" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ID_Cliente&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="98" y="150" as="geometry" />
+          <mxGeometry height="25" width="60" x="98" y="40" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Telefono&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="98" y="212.5" as="geometry" />
+          <mxGeometry height="25" width="60" x="98" y="102.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nombre&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="98" y="180" as="geometry" />
+          <mxGeometry height="25" width="60" x="98" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dirección&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="98" y="245" as="geometry" />
+          <mxGeometry height="25" width="60" x="98" y="135" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Email&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="98" y="280" as="geometry" />
+          <mxGeometry height="25" width="60" x="98" y="170" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Serie&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="566" y="182.5" as="geometry" />
+          <mxGeometry height="25" width="60" x="566" y="72.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Marca&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="566" y="245" as="geometry" />
+          <mxGeometry height="25" width="60" x="566" y="135" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Modelo&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="566" y="212.5" as="geometry" />
+          <mxGeometry height="25" width="60" x="566" y="102.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;fecha de compra&lt;/font&gt;" vertex="1">
-          <mxGeometry height="38" width="60" x="566" y="137" as="geometry" />
+          <mxGeometry height="38" width="60" x="566" y="27" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;categoria&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="566" y="277" as="geometry" />
+          <mxGeometry height="25" width="60" x="566" y="167" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nombre&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="690" y="311.5" as="geometry" />
+          <mxGeometry height="25" width="60" x="690" y="201.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ID_Tecnico&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="660" y="374" as="geometry" />
+          <mxGeometry height="25" width="60" x="660" y="264" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Especialidad&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="690" y="340" as="geometry" />
+          <mxGeometry height="25" width="60" x="690" y="230" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Telefono&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28" width="60" x="660" y="276" as="geometry" />
+          <mxGeometry height="28" width="60" x="660" y="166" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-105" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fecha Entrada&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="80" x="260" y="276" as="geometry" />
+          <mxGeometry height="25" width="80" x="260" y="166" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-106" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ID_Orden&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="230" y="374" as="geometry" />
+          <mxGeometry height="25" width="60" x="230" y="264" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-107" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Diagnostico&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="390" y="380" as="geometry" />
+          <mxGeometry height="25" width="60" x="390" y="270" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-108" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fecha Salida&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28" width="70" x="390" y="273" as="geometry" />
+          <mxGeometry height="28" width="70" x="390" y="163" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-117" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Estado&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="60" x="230" y="410" as="geometry" />
+          <mxGeometry height="20" width="60" x="230" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-119" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Codigo&lt;/span&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="440" y="501.5" as="geometry" />
+          <mxGeometry height="25" width="60" x="440" y="391.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-120" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ID_Repuesto&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="70" x="210" y="541" as="geometry" />
+          <mxGeometry height="25" width="70" x="210" y="431" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-121" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Precio&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="440" y="541" as="geometry" />
+          <mxGeometry height="25" width="60" x="440" y="431" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nombre&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28" width="60" x="219" y="500.5" as="geometry" />
+          <mxGeometry height="28" width="60" x="219" y="390.5" as="geometry" />
         </mxCell>
         <mxCell id="Xau_mjH31Edit32Rzf2k-133" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Estado&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="330" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="852d9NgYn4xVbU9PG7YU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Centro de Servicio Tecnico" vertex="1">
-          <mxGeometry height="30" width="310" x="219" y="30" as="geometry" />
+          <mxGeometry height="25" width="60" x="330" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
